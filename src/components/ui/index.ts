@@ -7,3 +7,16 @@ export { Progress } from "./progress";
 export { Select } from "./select";
 export { Tabs } from "./tabs";
 export { Modal } from "./modal";
+export {
+  PageLoader,
+  CardSkeleton,
+  ListItemSkeleton,
+  StatsSkeleton,
+  TableRowSkeleton,
+  ContactSkeleton,
+  PipelineSkeleton,
+  MessageSkeleton,
+  PageSkeleton,
+  Spinner,
+  LoadingDots,
+} from "./loading";

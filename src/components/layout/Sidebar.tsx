@@ -24,6 +24,7 @@ import { useState } from "react";
 const mainNavItems = [
   { href: "/", icon: LayoutDashboard, label: "Dashboard" },
   { href: "/properties", icon: Building2, label: "Properties" },
+  { href: "/market", icon: TrendingUp, label: "DLD Market" },
   { href: "/contacts", icon: Users, label: "Contacts" },
   { href: "/deals", icon: TrendingUp, label: "Deals" },
   { href: "/communications", icon: MessageSquare, label: "Communications" },
@@ -33,6 +34,7 @@ const toolsNavItems = [
   { href: "/automations", icon: Zap, label: "Automations" },
   { href: "/documents", icon: FileText, label: "Documents" },
   { href: "/financials", icon: Receipt, label: "Financials" },
+  { href: "/ai-test", icon: Zap, label: "AI Test" },
   { href: "/admin/properties", icon: Building2, label: "Manage Properties" },
 ];
 
