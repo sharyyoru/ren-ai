@@ -1,3 +1,5 @@
+"use client";
+
 import { Header } from "@/components/layout";
 import { StatsCard, RecentDeals, PropertyHighlights, ActivityFeed } from "@/components/dashboard";
 import { mockDashboardStats } from "@/data/mock";
